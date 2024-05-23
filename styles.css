@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    color:blue;
+}
+body {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: medium;
+   background-image: url("pexels-rickyrecap-1907785.jpg");
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: cover;
+   background-position: center;
+   border-bottom: 2px solid;
+   border-color: green;
+   align-items: center;
+   background-position: cover;
+}
+#container {
+    background-color: #0E2431;
+    border: 5px solid #F5E4C3;
+    border-width: 20%;
+    height: 275PX;
+    width: 750px;
+    text-align: center;
+}
+
+input{
+    width: 100px;
+   margin-top: 70px;
+   align-items: center;
+}
+
+input:hover{
+    background-color: goldenrod;
+}
+
+button:hover{
+    background-color: rgb(255, 247, 0);
+}
+label {
+    color: rgb(80, 255, 124);
+    transform: translateX(20px);
+}
